@@ -62,7 +62,7 @@ Whether it’s leading $18M infrastructure projects, building KPI dashboards in 
 ## 🌐 Connect with Me
 
 - 📧 Email: mmeshram@umassd.edu  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-meshram9)  
 - 🗂 [Resume](https://github.com/mayurmeshram/Resume-and-Certifications)  
 
 ---
