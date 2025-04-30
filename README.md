@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Mayur Meshram
 
 🎯 **Supply Chain & Operations Leader | MBA in Business Analytics | Future Tech Analyst**  
-📍 Based in Massachusetts | 📈 Data-Driven | 📊 BI Enthusiast | 🚀 Aspiring Analyst @ Amazon | Google
+📍 Based in Massachusetts | 📈 Data-Driven | 📊 BI Enthusiast 
 
 ---
 
