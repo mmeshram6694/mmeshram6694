@@ -38,10 +38,10 @@ Driven by continuous improvement and a passion for solving complex business prob
 
 | Project                                                                                             | Tools                     | Summary                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [**Power BI Hospitality Dashboard**](https://github.com/mayurmeshram/PowerBI-HospitalityDashboard)  | Power BI, DAX             | Built KPIs (ADR, RevPAR, Occupancy %) for 10+ hotel types using star schema; automated weekly tracking and diagnosed 20% OTA cancellation spikes |
-| [**AtliQ Sales Insights**](https://github.com/mayurmeshram/PowerBI-SalesInsights-AtliQ)             | SQL, Power BI, DAX        | Regional margin dashboard; transformed 100k+ rows across 5 tables to visualize trends and flag low-margin zones                                  |
-| [**YouTube Analytics Dashboard**](https://github.com/mayurmeshram/Tableau-YouTube-Analytics)        | Tableau, Excel            | Explored global content trends across 80+ countries, identifying engagement drivers for strategic insights                                       |
-| [**Real-Time Stock Market Analysis**](https://github.com/mayurmeshram/Kafka-RealTime-StockAnalysis) | Apache Kafka, Python, AWS | Created streaming pipeline to detect anomalies and visualize stock data in real time                                                             |
+| [**Power BI Hospitality Dashboard**](https://github.com/mmeshram6694/powerbi-hospitality-dashboard)  | Power BI, DAX             | Built KPIs (ADR, RevPAR, Occupancy %) for 10+ hotel types using star schema; automated weekly tracking and diagnosed 20% OTA cancellation spikes |
+| [**AtliQ Sales Insights**](https://github.com/mmeshram6694/Atliq_Sales_Insights)             | SQL, Power BI, DAX        | Regional margin dashboard; transformed 100k+ rows across 5 tables to visualize trends and flag low-margin zones                                  |
+| [**Global YouTube Analytics Dashboard**](https://github.com/mmeshram6694/-Global-YouTube-Analytics-Dashboard)        | Tableau, Excel            | Explored global content trends across 80+ countries, identifying engagement drivers for strategic insights                                       |
+| [**Real-Time Stock Market Analysis**](https://github.com/mmeshram6694/Real-Time-Stock-Data-Pipeline-Using-Apache-Kafka) | Apache Kafka, Python, AWS | Created streaming pipeline to detect anomalies and visualize stock data in real time                                                             |
 
 ---
 
