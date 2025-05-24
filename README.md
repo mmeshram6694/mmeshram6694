@@ -1,74 +1,81 @@
 # 👋 Hi there! I'm Mayur Meshram
 
-🎯 **Supply Chain & Operations Leader | MBA in Business Analytics | Future Tech Analyst**  
-📍 Based in Massachusetts | 📈 Data-Driven | 📊 BI Enthusiast 
+🎯 **Business & Operations Analyst | MBA in Business Analytics | Data-Driven Problem Solver**
+📍 Based in Massachusetts | 📈 BI & Supply Chain Optimization | 🔬 SQL • Power BI • Tableau • SAP
 
 ---
 
-## 🧭 About Me
+## 🔬 About Me
 
-I’m a results-driven professional with **8+ years of experience** in optimizing logistics, managing cross-functional projects, and applying analytics to solve operational challenges. Currently pursuing an **MBA in Business Analytics** at UMass Dartmouth (GPA: 3.81), I'm on a mission to blend my technical skills with strategic thinking to power data-led decisions in top tech and eCommerce firms.
+Throughout my journey, I’ve been passionate about transforming raw data into meaningful strategies that drive operational excellence and business growth. With an MBA in Business Analytics and over 8 years of experience in high-impact environments, I’ve led critical initiatives across supply chain optimization, logistics redesign, and process automation—delivering \$ 18 M+ in value through insight-driven decision-making.
 
-Whether it’s leading $18M infrastructure projects, building KPI dashboards in Tableau and Power BI, or analyzing supplier performance with SQL, I thrive at the intersection of **data, operations, and innovation**.
+Whether it’s streamlining end-to-end fuel logistics, reengineering vendor workflows using SAP S/4HANA, or building cross-functional KPI dashboards in Power BI and Tableau, I thrive in roles that demand strategic thinking backed by data. My analytical mindset and hands-on skills with tools like SQL, Python, R, and DAX allow me to uncover patterns, reduce inefficiencies, and enable proactive actions across the business.
+
+Driven by continuous improvement and a passion for solving complex business problems, I bridge domain expertise with data fluency to align KPIs with strategy and deliver actionable insights. I help organizations move from reactive operations to data-driven decision-making that boosts efficiency and impact.
 
 ---
 
 ## 🛠️ Skills Snapshot
 
 **🔍 Data & Analytics**
-- SQL, MS Access, Excel (Advanced), Tableau, Power BI  
-- Data Modeling, Forecasting, KPI Tracking, Dashboards
+
+* SQL, MS Access, Excel (Advanced), Tableau, Power BI
+* Data Modeling, Forecasting, KPI Tracking, Dashboards
 
 **📦 Supply Chain & Ops**
-- Inventory Optimization, Transportation Planning, Network Design  
-- Order Fulfillment, Procurement, Vendor Negotiation
+
+* Inventory Optimization, Transportation Planning, Network Design
+* Order Fulfillment, Procurement, Vendor Negotiation
 
 **🚀 Project Leadership**
-- SAP ERP / S4HANA, Strategic Planning, Cross-Functional Collaboration  
-- Cost Reduction, Lean Principles, DMAIC, Six Sigma White Belt
+
+* SAP ERP / S4HANA, Strategic Planning, Cross-Functional Collaboration
+* Cost Reduction, Lean Principles, DMAIC, Six Sigma White Belt
 
 ---
 
 ## 📊 Featured Projects
 
-| Project | Tools | Summary |
-|--------|-------|---------|
-| [**Power BI Sales Insights**](https://github.com/mayurmeshram/PowerBI-SalesInsights-AtliQ) | Power BI, SQL | End-to-end business dashboard for a B2B electronics firm (AtliQ), highlighting revenue, profit trends, and customer segmentation |
-| [**Inventory Optimization with SQL**](https://github.com/mayurmeshram/SQL-Projects/blob/main/Inventory_Optimization.sql) | SQL | Identified overstock/understock patterns and improved reorder strategies using query-based analysis |
-| [**Transportation Flow Optimization**](https://github.com/mayurmeshram/Case-Studies) | Excel, Tableau | A real-world case study on improving delivery time and logistics flow for infrastructure projects |
-| [**Vendor Audit Dashboard**](https://github.com/mayurmeshram/Tableau-Vendor-KPI) | Tableau | Designed dashboard to track supplier KPIs, reduce cycle times, and improve service-level performance |
+| Project                                                                                             | Tools                     | Summary                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [**Power BI Hospitality Dashboard**](https://github.com/mayurmeshram/PowerBI-HospitalityDashboard)  | Power BI, DAX             | Built KPIs (ADR, RevPAR, Occupancy %) for 10+ hotel types using star schema; automated weekly tracking and diagnosed 20% OTA cancellation spikes |
+| [**AtliQ Sales Insights**](https://github.com/mayurmeshram/PowerBI-SalesInsights-AtliQ)             | SQL, Power BI, DAX        | Regional margin dashboard; transformed 100k+ rows across 5 tables to visualize trends and flag low-margin zones                                  |
+| [**YouTube Analytics Dashboard**](https://github.com/mayurmeshram/Tableau-YouTube-Analytics)        | Tableau, Excel            | Explored global content trends across 80+ countries, identifying engagement drivers for strategic insights                                       |
+| [**Real-Time Stock Market Analysis**](https://github.com/mayurmeshram/Kafka-RealTime-StockAnalysis) | Apache Kafka, Python, AWS | Created streaming pipeline to detect anomalies and visualize stock data in real time                                                             |
 
 ---
 
 ## 🧠 Career Highlights
 
-- 🧩 Led an 80-member team to deliver an $18M project with 100% on-time delivery
-- 📈 Boosted logistics efficiency by 20% and reduced procurement delays by 25%
-- 💰 Designed performance dashboards for senior leadership, supporting data-driven decisions
-- ⚙️ Drove cost-reduction strategies that saved 25% in operations using lean and automation
+* ✅ Led \$18M+ supply chain and logistics optimization projects with up to 30% output gains
+* ⚖️ Reduced procurement lead times by 25% through supplier collaboration and SAP planning
+* 📈 Built Power BI & Tableau dashboards for executives, enabling faster, data-backed decisions
+* 📊 Delivered a 15% drop in energy consumption via predictive maintenance and route redesign
 
 ---
 
 ## 📚 Education & Certifications
 
-🎓 **MBA in Business Analytics**, UMass Dartmouth (2025, GPA: 3.81)  
-🎓 **B.E. Mining Engineering**, Nagpur University  
-📜 Certified in:  
-- Lean Supply Chain Management  
-- Six Sigma White Belt  
+🎓 **MBA in Business Analytics**, UMass Dartmouth — May 2025 (GPA: 3.833)
+🎓 **B.E. in Mining Engineering**, Nagpur University — Jun 2015 (CGPA: 8.5)
+📄 Certified in:
+
+* Microsoft Power BI (PL-300)
+* Lean Six Sigma White Belt
+* AWS Cloud Practitioner (in progress)
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: mmeshram@umassd.edu  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-meshram9)  
-- 🗂 [Resume](https://github.com/mayurmeshram/Resume-and-Certifications)  
+* 📧 Email: [mmeshram@umassd.edu](mailto:mmeshram@umassd.edu)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mayur-meshram9)
+* 🗂 [Resume](https://github.com/mayurmeshram/Resume-and-Certifications)
 
 ---
 
 ## 🚀 Looking Ahead
 
-I'm actively seeking full-time roles as a **Business Analyst / Data Analyst / Supply Chain Analyst** at forward-thinking companies like **Amazon**, **Google**, and other leaders in innovation.
+I'm actively seeking **Business Analyst, Operations Analyst, and Supply Chain Analyst** roles at forward-thinking firms in tech, eCommerce, and consulting. I aim to bring **data-driven impact, strategic execution**, and **continuous improvement** to every team I join.
 
-Let’s build something impactful together.
+Let’s connect and explore how I can contribute to your organization!
