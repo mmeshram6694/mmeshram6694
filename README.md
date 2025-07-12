@@ -71,7 +71,7 @@ Driven by continuous improvement and a passion for solving complex business prob
 
 * 📧 Email: [mmeshram@umassd.edu](mailto:mmeshram@umassd.edu)
 * 💼 [LinkedIn](https://www.linkedin.com/in/mayur-meshram9)
-* 🗂 [Resume](https://github.com/mayurmeshram/Resume-and-Certifications)
+* 🗂 [Resume](https://drive.google.com/file/d/1j0Lcghjgr6GnuY37UX6oo7vy_Z0q7SYR/view?usp=sharing)
 
 ---
 
